@@ -1,1 +1,2 @@
-hello
+git config --global user.email "bineetamk@gmail.com"
+git config --global user.name "BineetaGit2025" 
